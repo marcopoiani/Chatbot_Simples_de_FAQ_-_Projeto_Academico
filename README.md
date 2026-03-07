@@ -33,5 +33,5 @@ Recomenda-se executar o projeto utilizando:
 - Instalação das dependências com:
 
 ```bash
-
+pip install flask
 ---
