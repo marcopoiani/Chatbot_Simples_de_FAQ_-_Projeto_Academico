@@ -1,10 +1,12 @@
-# 📊 Projeto de Análise de Dados
+# 🤖 Chatbot Web com Flask
 
 ## 📌 Sobre o Projeto
 
-Projeto de Análise de Dados desenvolvido como trabalho final da disciplina Tópicos de Big Data com aplicação de técnicas analíticas para extração de insights a partir de grandes volumes de dados.
+Este projeto consiste no desenvolvimento de um **chatbot interativo para atendimento ao cliente**, integrado a uma interface web.
 
-O estudo foi realizado aplicado a um cenário real de mercado para uma empresa parceira, cujo nome foi preservado por questões de confidencialidade.
+A aplicação permite que usuários interajam com o chatbot diretamente em uma página web, simulando um sistema básico de suporte automatizado.
+
+O projeto foi desenvolvido utilizando **Python e Flask** para o backend, e **HTML, CSS e JavaScript** para a interface do usuário.
 
 ---
 
@@ -31,6 +33,66 @@ Recomenda-se executar o projeto utilizando:
 - **Python 3.9+**
 - **Jupyter Notebook ou Jupyter Lab**
 - Instalação das dependências com:
+
+```bash
+pip install flask
+```
+---
+
+## 📥 Instalação
+
+1️⃣ Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2️⃣ Acesse a pasta do projeto:
+
+```bash
+cd seu-repositorio
+```
+
+3️⃣ Instale as dependências necessárias:
+
+```bash
+pip install flask
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+### Opção 1 — Executando pelo Notebook
+
+Abra o arquivo `.ipynb` no **Jupyter Notebook** e execute as células.
+
+Após iniciar o servidor, acesse no navegador:
+
+```
+http://localhost:5000
+```
+
+---
+
+## 💬 Funcionalidades
+
+* Interface web para interação com chatbot
+* Envio e recebimento de mensagens em tempo real
+* Integração frontend e backend
+* Simulação de atendimento automatizado
+
+---
+
+## 🧑‍💻 Autor
+
+Projeto desenvolvido para fins acadêmicos na disciplina **Tópicos de Big Data**, aplicado a um cenário de empresa real, cujo nome foi preservado por motivos de confidencialidade.
+
+---
+
+## 📄 Licença
+
+Este projeto é destinado para **fins educacionais e acadêmicos**.
 
 ```bash
 pip install flask
