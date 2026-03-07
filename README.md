@@ -10,14 +10,28 @@ O estudo foi realizado aplicado a um cenário real de mercado para uma empresa p
 
 ## 🖥 Linguagens e Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando as seguintes linguagens, bibliotecas e ferramentas:
+Este projeto foi desenvolvido utilizando as seguintes linguagens, frameworks e tecnologias:
 
 | Linguagem / Tecnologia | Aplicação no Projeto |
 |------------------------|----------------------|
-| **Jupyter Notebook (.ipynb)** | Ambiente interativo para desenvolvimento e documentação da análise |
-| **Python**             | Linguagem principal utilizada para processamento e análise de dados |
-| **Pandas**             | Manipulação, limpeza e estruturação de dados tabulares |
-| **Matplotlib**         | Visualização de dados e geração de gráficos |
-| **Datetime (Python Standard Library)** | Manipulação e formatação de datas |
+| **Jupyter Notebook** | Ambiente utilizado para desenvolvimento e execução do projeto |
+| **Python** | Linguagem principal utilizada para desenvolvimento da lógica do chatbot e backend da aplicação |
+| **Flask** | Framework web utilizado para criação das rotas e gerenciamento do servidor web |
+| **Threading (Python)** | Utilizado para executar o servidor Flask em paralelo dentro do ambiente Jupyter |
+| **HTML** | Estrutura da interface web do chatbot |
+| **CSS** | Estilização da interface e layout do chat |
+| **JavaScript** | Interatividade da interface (ex: colapsar/expandir chat e controle de mensagens) |
+
+---
+
+## ⚙️ Ambiente de Execução
+
+Recomenda-se executar o projeto utilizando:
+
+- **Python 3.9+**
+- **Jupyter Notebook ou Jupyter Lab**
+- Instalação das dependências com:
+
+```bash
 
 ---
