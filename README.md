@@ -34,4 +34,3 @@ Recomenda-se executar o projeto utilizando:
 
 ```bash
 pip install flask
----
