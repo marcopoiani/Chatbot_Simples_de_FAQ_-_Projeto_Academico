@@ -93,6 +93,3 @@ Projeto desenvolvido para fins acadêmicos na disciplina **Tópicos de Big Data*
 ## 📄 Licença
 
 Este projeto é destinado para **fins educacionais e acadêmicos**.
-
-```bash
-pip install flask
